@@ -1,0 +1,13 @@
+../Src/reliable_ble.c:12:17:get32	16	static
+../Src/reliable_ble.c:16:13:put32	16	static
+../Src/reliable_ble.c:20:14:slot_for	16	static
+../Src/reliable_ble.c:23:13:reject	16	static
+../Src/reliable_ble.c:26:13:acknowledge	24	static
+../Src/reliable_ble.c:32:6:RBL_Init	8	static
+../Src/reliable_ble.c:37:6:RBL_SetConnected	16	static
+../Src/reliable_ble.c:42:6:RBL_SetSubscribed	16	static
+../Src/reliable_ble.c:46:6:RBL_Control	40	static
+../Src/reliable_ble.c:82:5:RBL_Queue	32	static
+../Src/reliable_ble.c:98:6:RBL_AdcGap	4	static
+../Src/reliable_ble.c:101:6:RBL_GetStatus	16	static
+../Src/reliable_ble.c:107:6:RBL_Process	40	static

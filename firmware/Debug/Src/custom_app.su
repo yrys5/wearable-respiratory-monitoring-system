@@ -1,0 +1,9 @@
+../Src/custom_app.c:32:12:SendPacket	16	static
+../Src/custom_app.c:37:6:Custom_APP_Init	8	static
+../Src/custom_app.c:38:6:Custom_APP_Process	8	static
+../Src/custom_app.c:39:6:Custom_APP_SendAdcValue	16	static
+../Src/custom_app.c:44:6:Custom_APP_AdcGap	8	static
+../Src/custom_app.c:45:6:Custom_APP_GetStatus	16	static
+../Src/custom_app.c:46:6:Custom_APP_Control	16	static
+../Src/custom_app.c:50:6:Custom_APP_Notification	16	static
+../Src/custom_app.c:66:6:Custom_STM_App_Notification	16	static

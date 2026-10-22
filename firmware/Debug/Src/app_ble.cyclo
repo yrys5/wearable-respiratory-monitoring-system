@@ -1,0 +1,17 @@
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h:2223:26:LL_FLASH_GetUDN	1
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h:2235:26:LL_FLASH_GetDeviceID	1
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h:2247:26:LL_FLASH_GetSTCompanyID	1
+../Src/app_ble.c:251:6:APP_BLE_Init	2
+../Src/app_ble.c:398:28:SVCCTL_App_Notification	24
+../Src/app_ble.c:702:22:APP_BLE_Get_Server_Connection_Status	1
+../Src/app_ble.c:716:13:Ble_Tl_Init	1
+../Src/app_ble.c:727:13:Ble_Hci_Gap_Gatt_Init	3
+../Src/app_ble.c:981:13:Adv_Request	1
+../Src/app_ble.c:1025:16:BleGetBdAddress	3
+../Src/app_ble.c:1082:13:Adv_Cancel	2
+../Src/app_ble.c:1171:6:hci_notify_asynch_evt	1
+../Src/app_ble.c:1178:6:hci_cmd_resp_release	1
+../Src/app_ble.c:1185:6:hci_cmd_resp_wait	1
+../Src/app_ble.c:1192:13:BLE_UserEvtRx	2
+../Src/app_ble.c:1212:13:BLE_StatusNot	3
+../Src/app_ble.c:1251:6:SVCCTL_ResumeUserEventFlow	1
